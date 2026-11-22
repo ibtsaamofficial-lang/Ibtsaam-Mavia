@@ -15,3 +15,5 @@ test_*.mp4
 assests/ugc ads/ElevenLabs_*
 assests/ugc ads/savefromins*
 ref_slices/
+
+assests/ugc ads/*.mp4
