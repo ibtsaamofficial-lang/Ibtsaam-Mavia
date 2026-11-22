@@ -1,0 +1,17 @@
+# System / OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Temporary / Scratch
+*.tmp
+*.log
+Downloader/
+test_*.mp4
+
+# Original HEVC source videos (too long filenames, too large; transcoded copies are used)
+assests/ugc ads/ElevenLabs_*
+assests/ugc ads/savefromins*
+ref_slices/
